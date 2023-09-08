@@ -1,0 +1,8 @@
+https://salonladeolinda.netlify.app/
+https://pagina-de-estilos.netlify.app/
+https://proyecto-web-css.netlify.app/
+https://pagina-generica-html.netlify.app/
+https://buscador-peliculas-js.netlify.app/
+https://validar-form-js.netlify.app/
+https://aplicacion-clima-java-script.netlify.app/
+https://sitioparaventasdeviajes.netlify.app/
